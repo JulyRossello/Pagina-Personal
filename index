@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title>Pagina Personal de Julieta Rossello</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div id="page-wrap">
+
+        <img src="/JULY/JULY.jpg" width="300" height="150">
+
+        <div id="contact-info" class="vcard">
+
+            <!-- Microformats! -->
+
+            <h1 class="fn"> Julieta Rossello </h1>
+
+            <p>
+
+                Email: <a class="email" href="mailto:julietarossello07@gmail.com">julietarossello07@gmail.com</a>
+            </p>
+        </div>
+
+        <div id="objective">
+            <p>
+                <span class="tel">Descripcion </span><br />
+               Soy una persona timida, soy amable, escucho a los demas.
+            </p>
+        </div>
+
+        <div class="clear"></div>
+
+        <dl>
+            <dd class="clear"></dd>
+
+            <dt>Educacion</dt>
+            <dd>
+                <h2>Escolaridad</h2>
+                <p><strong>Primario:</strong> Instituto San Pablo<br />
+                    <strong>Secundario:</strong> Instituto San Pablo</p>
+            </dd>
+
+            <dd class="clear"></dd>
+
+            <dt>Habilidades</dt>
+            <dd>
+                <h2>Hablilidades en Informatica</h2>
+                <p>Uso de las Tic's. Saber usar excel, Word, etc.</p>
+            </dd>
+
+            <dd class="clear"></dd>
+
+            <dt>Expectativas</dt>
+            <dd>
+                <h2>En el Futuro</h2>
+                <ul>
+                    <li>Estudiar una carrera que me guste</li>
+                    <li>Apredenr un idioma nuevo</li>
+                    <li>Obtener un titulo Universitario</li>
+                </ul>
+            </dd>
+
+            <dd class="clear"></dd>
+
+            <dt>Hobbies</dt>
+            <dd>Leer</dd>
+            <dd>Escuchar musica</dd>
+            <dd>Investigar cosas nuevas</dd>
+
+            <dd class="clear"></dd>
+
+        </dl>
+
+        <div class="clear"></div>
+
+    </div>
+
+</body>
+
+</html>
